@@ -17,7 +17,7 @@ This is a fully responsive clone of the Razorpay website created with Tailwind C
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/repository-name.git
+    git clone https://github.com/Nayabkhan123/RazorPay_Clone.git
     ```
 
 2. Install dependencies:
